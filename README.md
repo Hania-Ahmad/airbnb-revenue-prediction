@@ -13,6 +13,7 @@ airbnb-revenue-prediction/
 │   ├── EDA_&_Stats.ipynb   # EDA and statistical analysis
 │   └── Modelling.ipynb     # Machine learning modeling and evaluation
 │
+|── dashboard.png
 ├── README.md
 └── .gitignore
 ```
@@ -32,6 +33,9 @@ This project aims to:
 The goal is to predict listing revenue accurately while understanding which features most influence financial performance.
 
 ---
+## Tableau Dashboard
+
+![Airbnb Dashboard](dashboard.png)
 
 ## Part 1 — Exploratory Data Analysis and Statistical Testing
 
@@ -77,10 +81,6 @@ Hypothesis tests were conducted to determine whether categorical variables signi
 * Imbalanced category distributions limited statistical power in some cases
 
 This stage validated meaningful relationships before machine learning modeling.
-
-## Tableau Dashboard
-
-![Airbnb Dashboard](dashboard.png)
 ---
 
 ## Part 2 — Machine Learning Modeling

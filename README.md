@@ -78,6 +78,9 @@ Hypothesis tests were conducted to determine whether categorical variables signi
 
 This stage validated meaningful relationships before machine learning modeling.
 
+## Tableau Dashboard
+
+![Airbnb Dashboard](dashboard.png)
 ---
 
 ## Part 2 — Machine Learning Modeling
